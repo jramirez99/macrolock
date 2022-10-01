@@ -1,6 +1,9 @@
+import { AppRouter } from "./routes/AppRouter";
 
 export const App = () => {
     return (
-        <div> Desde App </div>
+        <AppRouter>
+            
+        </AppRouter>
     );
 };
