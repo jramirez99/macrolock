@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Avenir LT Std";
+    src: url("../../fonts/AvenirLTStd-Medium.eot");
+    src: url("../../fonts/AvenirLTStd-Medium.svg") format("svg");
+    src: url("../../fonts/AvenirLTStd-Medium.ttf") format("truetype");
+    src: url("../../fonts/AvenirLTStd-Medium.woff") format("woff");
+    src: url("../../fonts/AvenirLTStd-Medium.woff2") format("woff2");
+}
+
+body {
+    overflow: hidden;
+    font-family: "Avenir LT Std";
+}
